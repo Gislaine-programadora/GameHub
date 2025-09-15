@@ -1,4 +1,4 @@
-# 🎮 Game Play
+# 🎮 GameHub
 
 A stylish and modern game-themed web project built with **React, Vite, and Tailwind CSS**.  
 Deployed with **Vercel** for lightning-fast performance ⚡.
@@ -29,14 +29,14 @@ Deployed with **Vercel** for lightning-fast performance ⚡.
 
 ### Clone the repository
 ```bash
-git clone https://github.com/Gislaine-programadora/game-play.git
-cd game-play
+git clone https://github.com/Gislaine-programadora/GameHub.gitS
+cd GameHub
 
 # Install dependencies #
 npm install
 
 📂 Project Structure
-game-play/
+gameHub/
 ├── public/         # Static assets
 ├── src/            # Source code
 │   ├── components/ # Reusable components
@@ -49,3 +49,5 @@ game-play/
 👩‍💻 Author
 
 Built with ❤️ by Gislaine
+
+Email  gislaielophes@gmail.com
